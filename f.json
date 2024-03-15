@@ -2,7 +2,7 @@
     "categories": [
         {
             "name": "Movies",
-            "hls":"https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/hls/",
+            "hls":"https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/",
             "dash":"https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/dash/",
             "mp4":"https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/mp4/",
             "images":"https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/images/",
@@ -14,7 +14,7 @@
                         {
                             "type": "hls",
                             "mime": "application/x-mpegurl",
-                            "url": "al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_6.m3u8"
+                            "url": "index_6.m3u8"
                         },
                         {
                             "type": "dash",
