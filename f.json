@@ -14,7 +14,7 @@
                         {
                             "type": "hls",
                             "mime": "application/x-mpegurl",
-                            "url": "https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_6.m3u8"
+                            "url": "al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_6.m3u8"
                         },
                         {
                             "type": "dash",
@@ -50,7 +50,7 @@
                         {
                             "type": "hls",
                             "mime": "application/x-mpegurl",
-                            "url": "https://shls-euronews-en-prod-dub.shahid.net/out/v1/b09bbb8d9b684763be4211b088168de7/index_9.m3u8"
+                            "url": "shls-euronews-en-prod-dub.shahid.net/out/v1/b09bbb8d9b684763be4211b088168de7/index_9.m3u8"
                         },
                         {
                             "type": "dash",
@@ -86,7 +86,7 @@
                         {
                             "type": "hls",
                             "mime": "application/x-mpegurl",
-                            "url": "https://shls-euronews-en-prod-dub.shahid.net/out/v1/b09bbb8d9b684763be4211b088168de7/index_9.m3u8"
+                            "url": "shls-euronews-en-prod-dub.shahid.net/out/v1/b09bbb8d9b684763be4211b088168de7/index_9.m3u8"
                         },
                         {
                             "type": "dash",
