@@ -2,7 +2,7 @@
     "categories": [
         {
             "name": "Movies",
-            "hls":"https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/hls/",
+            "hls":"https://",
             "dash":"https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/dash/",
             "mp4":"https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/mp4/",
             "images":"https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/images/",
@@ -14,7 +14,7 @@
                         {
                             "type": "hls",
                             "mime": "application/x-mpegurl",
-                            "url": "DesigningForGoogleCast.m3u8"
+                            "url": "shls-euronews-en-prod-dub.shahid.net/out/v1/b09bbb8d9b684763be4211b088168de7/index_9.m3u8"
                         },
                         {
                             "type": "dash",
@@ -50,7 +50,7 @@
                         {
                             "type": "hls",
                             "mime": "application/x-mpegurl",
-                            "url": "GoogleIO-2014-CastingToTheFuture.m3u8"
+                            "url": "al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_6.m3u8"
                         },
                         {
                             "type": "dash",
@@ -86,7 +86,7 @@
                         {
                             "type": "hls",
                             "mime": "application/x-mpegurl",
-                            "url": "GoogleIO-2014-MakingGoogleCastReadyAppsDiscoverable.m3u8"
+                            "url": "www.enterweb.tv:25463/live/ssadtv/live-tv/1.m3u8"
                         },
                         {
                             "type": "dash",
@@ -122,7 +122,7 @@
                         {
                             "type": "hls",
                             "mime": "application/x-mpegurl",
-                            "url": "BigBuckBunny.m3u8"
+                            "url": "media2.streambrothers.com:1936/8122/8122/playlist.m3u8"
                         },
                         {
                             "type": "dash",
